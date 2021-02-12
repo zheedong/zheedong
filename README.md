@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 I'm currently in...
 > Korea University, Computer Science Major.
+> Serve in Republic of Korea Air Force.
