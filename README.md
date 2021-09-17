@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 > Serve in Republic of Korea Air Force.
 
 - 🔭 I’m currently working on ...
-#KUICS
-#OSAM-Hackerthon-2021
+> KUICS - Korea University Institute of Computer Security   
+> OSAM Hackerthon 2021
 - 🌱 I’m currently learning ...
-#PyTorch
-#Python
+> PyTorch  
+> Python
