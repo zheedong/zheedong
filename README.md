@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 > KUICS - Korea University Institute of Computer Security   
-> OSAM Hackerthon 2021
 - 🌱 I’m currently learning ...
 > PyTorch  
 > Python
+- 🤔 Award
+> OSAM Hackerthon 2021 Chief of Naval Operations Award (Team Canary)
