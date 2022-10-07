@@ -19,10 +19,7 @@ Here are some ideas to get you started:
 
 - I'm currently in...
 > Korea University, Computer Science Major.  
-> Serve in Republic of Korea Air Force.
 
-- 🔭 I’m currently working on ...
-> KUICS - Korea University Institute of Computer Security   
 - 🌱 I’m currently learning ...
 > PyTorch  
 > Python
