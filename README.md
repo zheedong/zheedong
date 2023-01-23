@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 #### I'm currently in...
-* Korea University, Computer Science Major. (Undergraduate, Junior, 3rd Year)
-* MLV lab undergraduate intern, leading by Prof. Hyunwoo Kim
-* AIKU - Artificial Intelligence Korea University, the 1st year of Seniors
+* Korea University, Major in Computer Science & Engineering. Undergraduate. Junior, 3rd Year
+* Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://mlv.korea.ac.kr)
+* AIKU - AI academy in Korea University, the 1st year of Seniors
 
 #### I’m currently learning ...  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
