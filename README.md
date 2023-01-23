@@ -33,5 +33,17 @@ Here are some ideas to get you started:
 #### Award
 * OSAM Hackerthon 2021 Chief of Naval Operations Award (Team Canary)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zheedong&show_icons=true&theme=tokyonight)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=zheedong&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=zheedong&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=zheedong&show_icons=true" />
+</picture>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheedong)](https://solved.ac/zheedong/)
