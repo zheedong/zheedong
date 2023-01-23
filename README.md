@@ -18,11 +18,17 @@ Here are some ideas to get you started:
 -->
 
 #### I'm currently in...
-* Korea University, Computer Science Major.
+* Korea University, Computer Science Major. (Undergraduate, Junior, 3rd Year)
 * MLV lab, leading by Prof. Hyunwoo Kim
 
 #### I’m currently learning ...  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+#### Major Interest
+* Machine Learning
+* Deep Learning
+* Graph Neural Network
+* Artificial General Intelligence
 
 #### Award
 * OSAM Hackerthon 2021 Chief of Naval Operations Award (Team Canary)
