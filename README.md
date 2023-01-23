@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 > OSAM Hackerthon 2021 Chief of Naval Operations Award (Team Canary)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zheedong&show_icons=true&theme=tokyonight)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
