@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently in...
-> Korea University, Computer Science Major.  
+> Korea University, Computer Science Major.
+> MLV lab, leading by Prof. Hyunwoo Kim
 
 - 🌱 I’m currently learning ...
 > PyTorch  
