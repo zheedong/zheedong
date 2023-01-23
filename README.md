@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### I'm currently in...
 * Korea University, Computer Science Major. (Undergraduate, Junior, 3rd Year)
-* MLV lab, leading by Prof. Hyunwoo Kim
+* MLV lab undergraduate intern, leading by Prof. Hyunwoo Kim
 
 #### I’m currently learning ...  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
