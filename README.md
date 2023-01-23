@@ -16,7 +16,7 @@
 * Artificial General Intelligence
 
 ### 🏆 Award
-* OSAM Hackerthon 2021 Chief of Naval Operations Award (Team Canary)
+* [OSAM Hackerthon 2021 Chief of Naval Operations Award (Team Canary)](https://osam.kr/hackathon/awards?m=v&wdnId=86)
 
 ### ✉️ Contact
 [zheedong@korea.ac.kr](mailto:zheedong@korea.ac.kr)
