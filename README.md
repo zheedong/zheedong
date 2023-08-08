@@ -4,7 +4,8 @@
 
 ## 🧑🏻‍🎓 I'm currently in...
 * Korea University, Major in Computer Science & Engineering. Undergraduate. Junior, 3rd Year
-* Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://mlv.korea.ac.kr)
+* Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://mlv.korea.ac.kr) (2022.10 ~ 2023.08)
+* Undergraduate Intern in [AGI Lab, Korea University, Professor Sungwoong Kim](https://agi.korea.ac.kr) (2023.09 ~ )
 * AIKU - AI academy in Korea University, the 1st year of Seniors
 
 ## 📚 I’m currently learning ...  
