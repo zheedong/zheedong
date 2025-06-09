@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/> 
 
 ## 🧑🏻‍🎓 I'm currently in...
-* Korea University, Major in Computer Science & Engineering. Undergraduate. Junior, 3rd Year
+* Korea University, Major in Artificial Intelligence. MS, 1st Year
 * Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://mlv.korea.ac.kr) (2022.10 ~ 2023.08)
 * Undergraduate Intern in [AGI Lab, Korea University, Professor Sungwoong Kim](https://agi.korea.ac.kr) (2023.09 ~ )
 * AIKU - AI academy in Korea University, the 1st year of Seniors
